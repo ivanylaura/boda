@@ -1,0 +1,15 @@
+{
+  "name": "I & L · 04.09.2027",
+  "short_name": "I & L",
+  "description": "I & L",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FCF0E4",
+  "theme_color": "#FCF0E4",
+  "lang": "es",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
