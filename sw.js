@@ -1,7 +1,7 @@
 // Guarda la web en el móvil para que funcione sin cobertura.
 // Si cambias algo de la web, sube este número para que los móviles se actualicen.
-const VERSION = "boda-v1-1";
-const ARCHIVOS = ["./", "index.html", "manifest.webmanifest",
+const VERSION = "boda-v1-2";
+const ARCHIVOS = ["./", "index.html", "web.html", "llegada.html", "manifest.webmanifest",
   "icon-192.png", "icon-512.png", "apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
