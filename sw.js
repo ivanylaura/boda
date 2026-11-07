@@ -1,6 +1,6 @@
 // Guarda la web en el móvil para que funcione sin cobertura.
 // Si cambias algo de la web, sube este número para que los móviles se actualicen.
-const VERSION = "boda-v1-8";
+const VERSION = "boda-v1-9";
 const ARCHIVOS = ["./", "index.html", "web.html", "llegada.html", "gracias.html", "menu.html", "mesas.html", "fotos.html", "libro.html", "confirmar.html", "manifest.webmanifest",
   "icon-192.png", "icon-512.png", "apple-touch-icon.png",
   "estilo/flores-sup.webp", "estilo/flores-inf.webp", "estilo/rama.webp", "estilo/capullo.webp", "estilo/monograma.svg", "estilo/acuarela.jpg"];
