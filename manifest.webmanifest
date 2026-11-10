@@ -2,7 +2,7 @@
   "name": "I & L · 04.09.2027",
   "short_name": "I & L",
   "description": "I & L",
-  "start_url": "web.html",
+  "start_url": "principal.html",
   "scope": "./",
   "display": "standalone",
   "background_color": "#FCF0E4",
